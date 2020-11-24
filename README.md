@@ -2,7 +2,7 @@
 
 # Bar Chart
 
-This is a D3.js data visualization App producing bar chart. Data is loaded from external URL using Axios. This project was one of the assignments as part of the [FreeCodeCamp's Front End Libraries certification](https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-bar-chart).
+This is a D3.js data visualization App producing bar chart. Data is loaded from external URL using Axios. This project was one of the assignments as part of the [FreeCodeCamp's Data Visualization certification](https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-bar-chart).
 
 ## Built With
 
